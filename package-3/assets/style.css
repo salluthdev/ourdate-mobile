@@ -97,6 +97,10 @@ body
 {
 	width: 73px;
 	height: 59px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 	background: #d5ab9c;
 	border-radius: 8px;
 }
