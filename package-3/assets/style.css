@@ -151,4 +151,10 @@ body
 {
 	border: 1px solid var(--pink);
 	border-radius: 50%;
+	padding: 8px;
+}
+.container .mempelai .card h1
+{
+	font-family: 'Parisienne', cursive;
+	color: var(--pink);
 }
