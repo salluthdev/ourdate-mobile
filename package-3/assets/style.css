@@ -136,10 +136,11 @@ body
 	text-align: center;
 	padding: 24px 45px;
 }
-.container .mempelai h2
+.container h2.title
 {
 	font-size: 20px;
 	color: var(--brown);
+	text-align: center;
 	margin-bottom: 24px;
 }
 .container .mempelai .card
