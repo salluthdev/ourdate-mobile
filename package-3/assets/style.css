@@ -5,7 +5,9 @@
 	box-sizing: border-box;
 	scroll-behavior: smooth;
 }
-body
+.container
 {
-	overflow-x: hidden;
+	width: 400px;
+	margin: 0 auto;
+	background: aqua;
 }
