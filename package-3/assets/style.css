@@ -147,6 +147,10 @@ body
 	background: #fff;
 	padding: 24px 28px;
 }
+.container .mempelai .card:nth-child(2)
+{
+	margin-bottom: 88px;
+}
 .container .mempelai .card img.mempelai
 {
 	border: 1px solid var(--pink);
