@@ -14,11 +14,16 @@ body
 {
 	width: 375px;
 	margin: 0 auto;
-	padding: 0 16px;
 	background: #fbf0ec;
+}
+.home
+{
+	padding: 24px;
 }
 .couple
 {
 	width: 327px;
+	height: 464px;
 	background: #fff;
+	text-align: center;
 }
