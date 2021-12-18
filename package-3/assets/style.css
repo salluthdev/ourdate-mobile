@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
 :root
 {
 	--brown: #5d534a;
@@ -36,4 +37,8 @@ body
 .container .home .couple .title p
 {
 	font-size: 14px;
+}
+.container .home .couple .title h1
+{
+	font-family: 'Parisienne', cursive;
 }
