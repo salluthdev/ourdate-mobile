@@ -4,6 +4,7 @@
 :root
 {
 	--brown: #5d534a;
+	--pink: #d5ab9c;
 }
 *
 {
@@ -45,9 +46,9 @@ body
 	font-weight: normal;
 	margin: 8px 0 20px;
 }
-.octagon img
+.container .home .couple .octagon img
 {
-	border: 1px solid #d5ab9c;
+	border: 1px solid var(--pink);
 	border-radius: 50%;
 	padding: 8px;
 }
@@ -74,7 +75,7 @@ body
     height: 150px;
     object-fit: cover;
     object-position: center;
-    border: 1px solid #d5ab9c;
+    border: 1px solid var(--pink);
 	padding: 10px;
 	border-radius: 5px;
 }
@@ -102,7 +103,7 @@ body
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	background: #d5ab9c;
+	background: var(--pink);
 	font-family: 'Montserrat', sans-serif;
 	color: #fff;
 	border-radius: 8px;
@@ -130,4 +131,8 @@ body
 	font-weight: bold;
 	color: var(--brown);
 	margin-left: 10px;
+}
+.container .mempelai
+{
+	
 }
