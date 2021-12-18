@@ -89,5 +89,6 @@ body
 }
 .container .home .timer
 {
-	
+	display: flex;
 }
+.container .home .timer
