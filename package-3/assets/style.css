@@ -102,5 +102,15 @@ body
 	justify-content: center;
 	align-items: center;
 	background: #d5ab9c;
+	color: #fff;
 	border-radius: 8px;
+}
+.container .home .timer .box p:first-child
+{
+	font-size: 16px;
+	font-weight: bold;
+}
+.container .home .timer .box p
+{
+	font-size: 12px;
 }
