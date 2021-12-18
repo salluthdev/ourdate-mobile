@@ -183,3 +183,8 @@ body
 	color: var(--brown);
 	margin-left: 6px;
 }
+.container .mempelai .ayat p
+{
+	font-size: 14px;
+	color: var(--brown);
+}
