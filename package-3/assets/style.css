@@ -204,5 +204,6 @@ body
 }
 .container .acara .card
 {
-
+	padding: 24px 32px;
+	border: 1px solid var(--pink);
 }
