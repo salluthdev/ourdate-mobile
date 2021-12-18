@@ -20,11 +20,11 @@ body
 	margin: 0 auto;
 	background: #fbf0ec;
 }
-.home
+.container .home
 {
 	padding: 24px;
 }
-.couple
+.container .home .couple
 {
 	width: 327px;
 	height: 464px;
