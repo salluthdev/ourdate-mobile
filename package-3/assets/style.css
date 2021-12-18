@@ -168,4 +168,6 @@ body
 .container .mempelai .card .media-sosial
 {
 	display: flex;
+	justify-content: center;
+	align-items: center;
 }
