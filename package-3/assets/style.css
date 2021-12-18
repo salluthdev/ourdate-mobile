@@ -192,4 +192,9 @@ body
 {
 	font-size: 14px;
 	color: var(--brown);
+	line-height: 19.6px;
+}
+.container .mempelai .ayat p:first-child
+{
+	margin-bottom: 18px;
 }
