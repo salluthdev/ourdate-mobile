@@ -90,6 +90,7 @@ body
 .container .home .timer
 {
 	display: flex;
+	justify-content: space-between;
 }
 .container .home .timer .box
 {
