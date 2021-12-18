@@ -91,4 +91,8 @@ body
 {
 	display: flex;
 }
-.container .home .timer
+.container .home .timer .box
+{
+	width: 73px;
+	height: 59px;
+}
