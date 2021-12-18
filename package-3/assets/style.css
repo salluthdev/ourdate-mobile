@@ -90,7 +90,6 @@ body
 }
 .container .home .timer
 {
-	font-family: 'Montserrat', sans-serif;
 	display: flex;
 	justify-content: space-between;
 	margin: 24px 0 18px;
@@ -104,6 +103,7 @@ body
 	justify-content: center;
 	align-items: center;
 	background: #d5ab9c;
+	font-family: 'Montserrat', sans-serif;
 	color: #fff;
 	border-radius: 8px;
 }
@@ -116,4 +116,18 @@ body
 .container .home .timer .box p
 {
 	font-size: 12px;
+}
+.container .home .qrcode-guestbook
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.container .home .qrcode-guestbook p
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: var(--brown);
+	margin-left: 10px;
 }
