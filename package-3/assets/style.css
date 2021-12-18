@@ -156,5 +156,7 @@ body
 .container .mempelai .card h1
 {
 	font-family: 'Parisienne', cursive;
+	font-weight: normal;
 	color: var(--pink);
+	margin: 20px 0 12px;
 }
