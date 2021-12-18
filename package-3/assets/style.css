@@ -201,9 +201,16 @@ body
 {
 	background: #fff;
 	padding: 24px 16px;
+	text-align: center;
 }
 .container .acara .card
 {
 	padding: 24px 32px;
 	border: 1px solid var(--pink);
+}
+.container .acara .card h1
+{
+	font-family: 'Parisienne', cursive;
+	font-weight: normal;
+	color: var(--pink);
 }
