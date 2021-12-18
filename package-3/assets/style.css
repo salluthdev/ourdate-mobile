@@ -42,12 +42,42 @@ body
 {
 	font-family: 'Parisienne', cursive;
 	font-weight: normal;
-	margin-top: 8px;
+	margin: 8px 0 20px;
 }
-.container .home .couple img
+.octagon img
 {
-	margin: 30px 0;
+	border: 1px solid #d5ab9c;
+	border-radius: 50%;
+	padding: 8px;
 }
+/*
+.octagonal-wrapper
+{
+    transform: rotate(45deg);
+}
+.octagonal-wrapper,
+.octagonal-wrapper .octagonal
+{
+    margin: 0 auto;
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
+}
+.octagonal-wrapper .octagonal
+{
+    transform: rotate(-45deg);
+}
+.octagonal-wrapper .octagonal .couple-image
+{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+    border: 1px solid #d5ab9c;
+	padding: 10px;
+	border-radius: 5px;
+}
+*/
 .container .home .couple .content
 {
 	font-size: 12px;
@@ -55,5 +85,9 @@ body
 .container .home .couple .content p.salam
 {
 	font-weight: bold;
-	margin-bottom: 12px;
+	margin: 20px 0 12px;
+}
+.container .home .timer
+{
+	
 }
