@@ -9,14 +9,16 @@
 body
 {
 	font-family: 'Open Sans', sans-serif;
-	background: #fbf0ec;
 }
 .container
 {
 	width: 375px;
 	margin: 0 auto;
+	padding: 0 16px;
+	background: #fbf0ec;
 }
 .couple
 {
 	width: 327px;
+	background: #fff;
 }
