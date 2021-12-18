@@ -170,9 +170,11 @@ body
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	margin-top: 14px;
 }
 .container .mempelai .card .media-sosial p
 {
 	font-size: 10px;
 	color: var(--brown);
+	margin-left: 6px;
 }
