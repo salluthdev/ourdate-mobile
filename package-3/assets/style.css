@@ -145,4 +145,10 @@ body
 {
 	width: 285px;
 	background: #fff;
+	padding: 24px 28px;
+}
+.container .mempelai .card img
+{
+	border: 1px solid var(--pink);
+	border-radius: 50%;
 }
