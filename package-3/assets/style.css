@@ -30,7 +30,6 @@ body
 .container .home .couple
 {
 	width: 327px;
-	height: 464px;
 	background: #fff;
 	text-align: center;
 	color: var(--brown);
@@ -134,5 +133,16 @@ body
 }
 .container .mempelai
 {
-	
+	text-align: center;
+	padding: 24px 45px;
+}
+.container .mempelai h2
+{
+	font-size: 20px;
+	color: var(--brown);
+}
+.container .mempelai .card
+{
+	width: 285px;
+	background: #fff;
 }
