@@ -207,6 +207,7 @@ body
 {
 	padding: 24px 32px;
 	border: 1px solid var(--pink);
+	margin-bottom: 24px;
 }
 .container .acara .card h1
 {
