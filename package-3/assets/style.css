@@ -147,7 +147,7 @@ body
 	background: #fff;
 	padding: 24px 28px;
 }
-.container .mempelai .card img
+.container .mempelai .card img.mempelai
 {
 	border: 1px solid var(--pink);
 	border-radius: 50%;
@@ -164,4 +164,8 @@ body
 {
 	font-size: 12px;
 	color: var(--brown);
+}
+.container .mempelai .card .media-sosial
+{
+	display: flex;
 }
