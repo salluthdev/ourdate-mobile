@@ -213,4 +213,70 @@ body
 	font-family: 'Parisienne', cursive;
 	font-weight: normal;
 	color: var(--pink);
+	margin-bottom: 16px;
+}
+.container .acara .card .date-wrapper
+{
+	position: relative;
+	height: 94px;
+	padding: 24px;
+}
+.container .acara .card .date-wrapper img
+{
+	position: absolute;
+	top: 0;
+	transform: translateX(-50%);
+}
+.container .acara .card .date-wrapper h1
+{
+	position: relative;
+	font-size: 40px;
+	color: var(--brown);
+}
+.container .acara .card p
+{
+	color: var(--pink);
+}
+.container .acara .card p.hari-acara
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-transform: uppercase;
+	margin: 24px 0 4px;
+}
+.ellipse
+{
+	display: inline-block;
+	width: 4px;
+	height: 4px;
+	margin: 0 14px;
+	border-radius: 50%;
+	background: var(--pink);
+}
+.container .acara .card .waktu-acara
+{
+	width: 140px;
+	background: var(--pink);
+	padding: 8px;
+	margin: 12px auto 16px;
+	font-size: 14px;
+	color: #fff;
+	border-radius: 8px;
+}
+.container .acara .card .lokasi-acara
+{
+	padding: 12px 24px;
+	border: 1px solid var(--pink);
+	border-radius: 10px;
+}
+.container .acara .card .lokasi-acara p
+{
+	font-size: 14px;
+	color: var(--brown);
+}
+.container .acara .card .lokasi-acara p:first-child
+{
+	font-weight: bold;
+	margin-bottom: 10px;
 }
