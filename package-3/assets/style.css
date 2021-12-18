@@ -29,7 +29,6 @@ body
 }
 .container .home .couple
 {
-	width: 327px;
 	background: #fff;
 	text-align: center;
 	color: var(--brown);
@@ -145,7 +144,6 @@ body
 }
 .container .mempelai .card
 {
-	width: 285px;
 	background: #fff;
 	padding: 24px 28px;
 }
@@ -203,4 +201,8 @@ body
 {
 	background: #fff;
 	padding: 24px 16px;
+}
+.container .acara .card
+{
+
 }
