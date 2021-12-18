@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 :root
 {
 	--brown: #5d534a;
@@ -89,6 +90,7 @@ body
 }
 .container .home .timer
 {
+	font-family: 'Montserrat', sans-serif;
 	display: flex;
 	justify-content: space-between;
 	margin: 24px 0 18px;
@@ -109,6 +111,7 @@ body
 {
 	font-size: 16px;
 	font-weight: bold;
+	margin-bottom: 4px;
 }
 .container .home .timer .box p
 {
