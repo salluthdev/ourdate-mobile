@@ -365,3 +365,7 @@ body
 	background: var(--pink);
 	padding: 8px 12px;
 }
+.container .lokasi button a
+{
+	text-decoration: none;
+}
