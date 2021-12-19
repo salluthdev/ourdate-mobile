@@ -363,7 +363,7 @@ body
 .container .lokasi button
 {
 	background: var(--pink);
-	padding: 8px 12px;
+	padding: 10px 12px;
 	margin-top: 16px;
 	border: none;
 	border-radius: 10px;
@@ -371,6 +371,7 @@ body
 .container .lokasi button a
 {
 	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	font-weight: bold;
 	color: #fff;
