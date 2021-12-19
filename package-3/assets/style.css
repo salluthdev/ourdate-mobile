@@ -115,6 +115,7 @@ body
 	display: flex;
 	justify-content: space-between;
 	margin: 24px 0 18px;
+	z-index: 1;
 }
 .container .home .timer .box
 {
