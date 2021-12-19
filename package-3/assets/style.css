@@ -237,7 +237,7 @@ body
 	top: 1032px;
 	right: 0;
 }
-.container .acara
+.container .acara, .container .rsvp
 {
 	position: relative;
 	background: #fff;
@@ -384,8 +384,4 @@ body
 	position: absolute;
 	bottom: 0;
 	right: 0;
-}
-.container .rsvp
-{
-	background: #fff;
 }
