@@ -29,7 +29,7 @@ body
 	position: relative;
 	padding: 24px;
 }
-.flower-1
+.flower-1, .flower-4
 {
 	position: absolute;
 	top: 0;
@@ -107,12 +107,6 @@ body
 {
 	position: absolute;
 	bottom: 0;
-	left: 0;
-}
-.flower-4
-{
-	position: absolute;
-	top: 0;
 	left: 0;
 }
 .container .home .timer
