@@ -172,8 +172,10 @@ body
 }
 .container .mempelai .card
 {
+	position: relative;
 	background: #fff;
 	padding: 24px 28px;
+	z-index: 1;
 }
 .container .mempelai .card:nth-child(2)
 {
