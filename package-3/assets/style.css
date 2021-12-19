@@ -35,7 +35,7 @@ body
 	top: 0;
 	left: 0;
 }
-.flower-2
+.flower-2, .flower-6, .flower-10
 {
 	position: absolute;
 	top: 0;
@@ -243,12 +243,6 @@ body
 	background: #fff;
 	padding: 24px 16px;
 	text-align: center;
-}
-.flower-6
-{
-	position: absolute;
-	top: 0;
-	right: 0;
 }
 .container .acara .card
 {
