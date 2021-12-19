@@ -347,3 +347,8 @@ body
 	position: relative;
 	padding: 24px 16px;
 }
+.container .lokasi .peta
+{
+	display: flex;
+	justify-content: center;
+}
