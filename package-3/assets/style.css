@@ -344,5 +344,5 @@ body
 }
 .container .lokasi
 {
-	height: 360px;
+	position: relative;
 }
