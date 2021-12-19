@@ -352,3 +352,9 @@ body
 	display: flex;
 	justify-content: center;
 }
+.container .lokasi .peta img
+{
+	border: 5px solid #fff;
+	border-radius: 4px;
+	box-shadow: 0px 4px 20px rgba(72, 72, 72, 0.2);
+}
