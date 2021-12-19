@@ -54,6 +54,10 @@ body
 {
 	font-size: 14px;
 }
+p
+{
+	line-height: 19.6px;
+}
 .container .home .couple .title h1
 {
 	font-family: 'Parisienne', cursive;
@@ -224,7 +228,6 @@ body
 {
 	font-size: 14px;
 	color: var(--brown);
-	line-height: 19.6px;
 }
 .container .mempelai .ayat p:first-child
 {
