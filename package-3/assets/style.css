@@ -99,7 +99,8 @@ p
 }
 */
 .container .home .couple .content,
-.container .home .timer .box p
+.container .home .timer .box p,
+.container .mempelai .card p
 {
 	font-size: 12px;
 	line-height: 16.8px;
@@ -195,11 +196,6 @@ p
 	font-weight: normal;
 	color: var(--pink);
 	margin: 20px 0 12px;
-}
-.container .mempelai .card p
-{
-	font-size: 12px;
-	color: var(--brown);
 }
 .container .mempelai .card .media-sosial
 {
