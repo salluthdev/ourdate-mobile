@@ -197,6 +197,10 @@ p
 	color: var(--pink);
 	margin: 20px 0 12px;
 }
+.container .mempelai .card p
+{
+	color: var(--brown);
+}
 .container .mempelai .card .media-sosial
 {
 	display: flex;
