@@ -25,14 +25,29 @@ body
 }
 .container .home
 {
+	position: relative;
 	padding: 24px;
+}
+.flower-1
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.flower-2
+{
+	position: absolute;
+	top: 0;
+	right: 0;
 }
 .container .home .couple
 {
+	position: relative;
 	background: #fff;
 	text-align: center;
 	color: var(--brown);
 	padding: 24px 36px;
+	z-index: 1;
 }
 .container .home .couple .title p
 {
@@ -87,8 +102,21 @@ body
 	font-weight: bold;
 	margin: 20px 0 12px;
 }
+.flower-3
+{
+	position: absolute;
+	top: 368px;
+	left: 0;
+}
+.flower-4
+{
+	position: absolute;
+	top: 635px;
+	left: 0;
+}
 .container .home .timer
 {
+	position: relative;
 	display: flex;
 	justify-content: space-between;
 	margin: 24px 0 18px;
@@ -118,6 +146,7 @@ body
 }
 .container .home .qrcode-guestbook
 {
+	position: relative;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -132,11 +161,13 @@ body
 }
 .container .mempelai
 {
+	position: relative;
 	text-align: center;
 	padding: 24px 45px;
 }
 .container h2.title
 {
+	position: relative;
 	font-size: 20px;
 	color: var(--brown);
 	text-align: center;
@@ -184,8 +215,10 @@ body
 }
 .container .mempelai .ayat
 {
+	position: relative;
 	margin-top: 34px;
 	font-style: italic;
+	z-index: 1;
 }
 .container .mempelai .ayat p
 {
@@ -197,17 +230,33 @@ body
 {
 	margin-bottom: 18px;
 }
+.flower-5
+{
+	position: absolute;
+	top: 1032px;
+	right: 0;
+}
 .container .acara
 {
+	position: relative;
 	background: #fff;
 	padding: 24px 16px;
 	text-align: center;
 }
+.flower-6
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
 .container .acara .card
 {
+	position: relative;
 	padding: 24px 32px;
+	background: #fff;
 	border: 1px solid var(--pink);
 	margin-bottom: 24px;
+	z-index: 1;
 }
 .container .acara .card h1
 {
@@ -280,4 +329,20 @@ body
 {
 	font-weight: bold;
 	margin-bottom: 10px;
+}
+.flower-7
+{
+	position: absolute;
+	top: 896px;
+	left: 0;
+}
+.flower-8
+{
+	position: absolute;
+	top: 1010px;
+	left: 0;
+}
+.container .lokasi
+{
+	height: 360px;
 }
