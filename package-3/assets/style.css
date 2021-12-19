@@ -348,12 +348,11 @@ body
 .container .lokasi
 {
 	position: relative;
-	padding: 24px 16px;
-}
-.container .lokasi .peta
-{
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
+	align-items: center;
+	padding: 24px 16px;
 }
 .container .lokasi .peta img
 {
