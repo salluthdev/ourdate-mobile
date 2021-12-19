@@ -362,5 +362,6 @@ body
 }
 .container .lokasi button
 {
+	background: var(--pink);
 	padding: 8px 12px;
 }
