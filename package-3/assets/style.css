@@ -225,7 +225,7 @@ body
 {
 	margin-bottom: 18px;
 }
-.flower-5
+.flower-5, .flower-9
 {
 	position: absolute;
 	bottom: 0;
@@ -354,10 +354,4 @@ body
 	font-weight: bold;
 	text-decoration: none;
 	color: #fff;
-}
-.flower-9
-{
-	position: absolute;
-	bottom: 0;
-	right: 0;
 }
