@@ -368,5 +368,6 @@ body
 .container .lokasi button a
 {
 	text-decoration: none;
+	font-size: 14px;
 	color: #fff;
 }
