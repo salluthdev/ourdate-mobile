@@ -103,7 +103,7 @@ body
 	font-weight: bold;
 	margin: 20px 0 12px;
 }
-.flower-3
+.flower-3, .flower-7
 {
 	position: absolute;
 	bottom: 0;
@@ -321,12 +321,6 @@ body
 {
 	font-weight: bold;
 	margin-bottom: 10px;
-}
-.flower-7
-{
-	position: absolute;
-	bottom: 0;
-	left: 0;
 }
 .flower-8
 {
