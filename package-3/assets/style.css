@@ -29,7 +29,7 @@ body
 	position: relative;
 	padding: 24px;
 }
-.flower-1, .flower-4
+.flower-1, .flower-4, .flower-8
 {
 	position: absolute;
 	top: 0;
@@ -321,12 +321,6 @@ body
 {
 	font-weight: bold;
 	margin-bottom: 10px;
-}
-.flower-8
-{
-	position: absolute;
-	top: 0;
-	left: 0;
 }
 .container .lokasi
 {
