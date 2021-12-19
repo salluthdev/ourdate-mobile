@@ -365,3 +365,7 @@ p
 {
 	margin-bottom: 12px;
 }
+.container .rsvp p
+{
+	width: 270px;
+}
