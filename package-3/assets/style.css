@@ -219,7 +219,8 @@ body
 	font-style: italic;
 	z-index: 1;
 }
-.container .mempelai .ayat p
+.container .mempelai .ayat p,
+.container .rsvp p
 {
 	font-size: 14px;
 	color: var(--brown);
@@ -362,8 +363,4 @@ body
 .container .rsvp h2
 {
 	margin-bottom: 12px;
-}
-.container .rsvp p
-{
-	font-size: 14px;
 }
