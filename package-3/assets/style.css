@@ -374,7 +374,7 @@ p
 }
 .container .rsvp .rsvp-form
 {
-	margin: 24px 0 16px;
+	margin-top: 24px;
 }
 .container .rsvp .rsvp-form .short-field
 {
@@ -405,6 +405,7 @@ p
 {
    appearance: none;
    outline: none;
+   margin-bottom: unset;
 }
 .container .rsvp .rsvp-form img
 {
