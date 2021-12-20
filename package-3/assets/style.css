@@ -383,7 +383,8 @@ p
 {
 	width: 48%;
 }
-.container .rsvp .rsvp-form input
+.container .rsvp .rsvp-form input,
+.container .rsvp .rsvp-form select
 {
 	width: 100%;
 	padding: 11px 12px;
@@ -391,7 +392,8 @@ p
 	border: 1px solid var(--pink);
 	border-radius: 8px;
 }
-.container .rsvp .rsvp-form input::placeholder
+.container .rsvp .rsvp-form input::placeholder,
+.container .rsvp .rsvp-form select
 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
