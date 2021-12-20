@@ -380,3 +380,7 @@ p
 	border: 1px solid var(--pink);
 	border-radius: 8px;
 }
+.container .rsvp .rsvp-form input::placeholder
+{
+	color: #acadae;
+}
