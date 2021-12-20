@@ -354,7 +354,8 @@ p
 	border: none;
 	border-radius: 10px;
 }
-.container .lokasi button a
+.container .lokasi button a,
+.container .rsvp .rsvp-form button a
 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
