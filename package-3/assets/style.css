@@ -374,6 +374,10 @@ p
 {
 	margin: 24px 0 16px;
 }
+.container .rsvp .rsvp-form .short-field
+{
+	display: flex;
+}
 .container .rsvp .rsvp-form input
 {
 	width: 100%;
