@@ -404,3 +404,10 @@ p
    appearance: none;
    outline: none;
 }
+.container .rsvp .rsvp-form img
+{
+	position: absolute;
+	bottom: 92px;
+	right: 33px;
+	z-index: 10;
+}
