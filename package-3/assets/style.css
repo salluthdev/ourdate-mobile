@@ -370,3 +370,7 @@ p
 	width: 270px;
 	margin: 0 auto;
 }
+.container .rsvp .rsvp-form input
+{
+	padding: 8px 12px;
+}
