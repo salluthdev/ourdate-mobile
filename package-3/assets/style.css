@@ -399,3 +399,7 @@ p
 	font-size: 14px;
 	color: #acadae;
 }
+.container .rsvp .rsvp-form select
+{
+   appearance: none;
+}
