@@ -374,4 +374,5 @@ p
 {
 	padding: 8px 12px;
 	border: 1px solid var(--pink);
+	border-radius: 8px;
 }
