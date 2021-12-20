@@ -377,6 +377,7 @@ p
 .container .rsvp .rsvp-form input
 {
 	padding: 8px 12px;
+	margin-bottom: 16px;
 	border: 1px solid var(--pink);
 	border-radius: 8px;
 }
