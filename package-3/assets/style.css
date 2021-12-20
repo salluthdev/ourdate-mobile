@@ -402,4 +402,5 @@ p
 .container .rsvp .rsvp-form select
 {
    appearance: none;
+   outline: none;
 }
