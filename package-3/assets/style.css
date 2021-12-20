@@ -382,5 +382,6 @@ p
 }
 .container .rsvp .rsvp-form input::placeholder
 {
+	font-size: 14px;
 	color: #acadae;
 }
