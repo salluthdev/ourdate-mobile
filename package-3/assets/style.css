@@ -377,6 +377,11 @@ p
 .container .rsvp .rsvp-form .short-field
 {
 	display: flex;
+	justify-content: space-between;
+}
+.container .rsvp .rsvp-form .short-field input
+{
+	width: 48%;
 }
 .container .rsvp .rsvp-form input
 {
