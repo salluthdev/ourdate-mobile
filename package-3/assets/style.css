@@ -393,6 +393,7 @@ p
 	margin-bottom: 16px;
 	border: 1px solid var(--pink);
 	border-radius: 8px;
+	outline: none;
 }
 .container .rsvp .rsvp-form input::placeholder,
 .container .rsvp .rsvp-form select
@@ -404,7 +405,6 @@ p
 .container .rsvp .rsvp-form select
 {
    appearance: none;
-   outline: none;
    margin-bottom: unset;
 }
 .container .rsvp .rsvp-form img
