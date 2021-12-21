@@ -441,15 +441,17 @@ p
 	text-align: center;
 	color: var(--brown);
 }
-.container .prokes .prokes-notice .prokes-card p.cuci-tangan
+.container .prokes .prokes-notice .prokes-card .cuci-tangan
 {
-	margin-top: 33px;
+	margin-top: 6px;
+	margin-bottom: 35px;
 }
-.container .prokes .prokes-notice .prokes-card p.gunakan-masker
+.container .prokes .prokes-notice .prokes-card .gunakan-masker
 {
-	margin-top: 8px;
+	margin-bottom: 8px;
 }
-.container .prokes .prokes-notice .prokes-card p.jaga-jarak
+.container .prokes .prokes-notice .prokes-card .jaga-jarak
 {
-	margin-top: 42px;
+	margin-top: 17px;
+	margin-bottom: 38px;
 }
