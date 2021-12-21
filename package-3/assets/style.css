@@ -29,7 +29,8 @@ body
 	position: relative;
 	padding: 24px;
 }
-.flower-1, .flower-4, .flower-8
+.flower-1, .flower-4, .flower-8,
+.flower-12
 {
 	position: absolute;
 	top: 0;
