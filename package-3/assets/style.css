@@ -421,4 +421,5 @@ p
 .container .prokes .prokes-card
 {
 	display: flex;
+	justify-content: center;
 }
