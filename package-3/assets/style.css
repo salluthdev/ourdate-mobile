@@ -237,7 +237,8 @@ p
 	bottom: 0;
 	right: 0;
 }
-.container .acara, .container .rsvp
+.container .acara, .container .rsvp,
+.container .love-story
 {
 	position: relative;
 	background: #fff;
@@ -454,8 +455,4 @@ p
 {
 	margin-top: 17px;
 	margin-bottom: 38px;
-}
-.container .love-story
-{
-	padding: 24px 16px;
 }
