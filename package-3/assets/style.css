@@ -417,6 +417,7 @@ p
 }
 .container .prokes
 {
+	position: relative;
 	padding: 24px 16px;
 }
 .container .prokes .prokes-notice
@@ -455,4 +456,10 @@ p
 {
 	margin-top: 17px;
 	margin-bottom: 38px;
+}
+.flower-11
+{
+	position: absolute;
+	bottom: 0;
+	left: 0;
 }
