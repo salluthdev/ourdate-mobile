@@ -437,6 +437,7 @@ p
 }
 .container .prokes .prokes-notice .prokes-card p
 {
+	font-size: 14px;
 	text-align: center;
 	color: var(--brown);
 }
