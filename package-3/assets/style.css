@@ -440,3 +440,7 @@ p
 	text-align: center;
 	color: var(--brown);
 }
+.container .prokes .prokes-notice .prokes-card p.cuci-tangan
+{
+	margin-top: 33px;
+}
