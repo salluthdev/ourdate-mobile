@@ -428,6 +428,7 @@ p
 }
 .container .prokes .prokes-notice .prokes-card
 {
+	position: relative;
 	width: 106px;
 	height: 164px;
 	display: flex;
@@ -437,6 +438,7 @@ p
 	background: #fff;
 	border-radius: 8px;
 	box-shadow: 0px 4px 20px rgba(72, 72, 72, 0.2);
+	z-index: 1;
 }
 .container .prokes .prokes-notice .prokes-card p
 {
