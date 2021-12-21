@@ -437,5 +437,6 @@ p
 }
 .container .prokes .prokes-notice .prokes-card p
 {
+	text-align: center;
 	color: var(--brown);
 }
