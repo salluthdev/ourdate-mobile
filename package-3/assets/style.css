@@ -110,7 +110,7 @@ p
 	font-weight: bold;
 	margin: 20px 0 12px;
 }
-.flower-3, .flower-7
+.flower-3, .flower-7, .flower-11
 {
 	position: absolute;
 	bottom: 0;
@@ -456,10 +456,4 @@ p
 {
 	margin-top: 17px;
 	margin-bottom: 38px;
-}
-.flower-11
-{
-	position: absolute;
-	bottom: 0;
-	left: 0;
 }
