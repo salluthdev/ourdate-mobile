@@ -421,7 +421,7 @@ p
 .container .prokes .prokes-notice
 {
 	display: flex;
-	justify-content: center;
+	justify-content: space-between;
 }
 .container .prokes .prokes-notice .prokes-card
 {
