@@ -423,3 +423,7 @@ p
 	display: flex;
 	justify-content: center;
 }
+.container .prokes .prokes-notice .prokes-card
+{
+	background: #fff;
+}
