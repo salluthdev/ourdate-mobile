@@ -530,6 +530,10 @@ p
 }
 .container .love-story .love-card img
 {
+	width: 80px;
+	height: 100px;
+	object-fit: cover;
+	object-position: center;
 	border-radius: 8px;
 }
 .container .galeri
