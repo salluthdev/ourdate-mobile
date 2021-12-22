@@ -519,3 +519,8 @@ p
 {
 	margin-bottom: unset;
 }
+.container .galeri
+{
+	position: relative;
+	padding: 24px 16px;
+}
