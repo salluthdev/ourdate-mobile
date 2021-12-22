@@ -483,7 +483,6 @@ p
 	height: 12px;
 	background: url('img/love-icon.png');
 	background-repeat: no-repeat;
-	z-index: 100;
 }
 .container .love-story .love-wrapper .love-decoration::after
 {
