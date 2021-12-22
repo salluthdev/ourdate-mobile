@@ -492,7 +492,7 @@ p
 	left: 15px;
 	content: '';
 	width: 2px;
-	height: 200px;
+	height: 180px;
 	background: var(--pink);
 	z-index: 1;
 }
@@ -511,4 +511,5 @@ p
 	border-radius: 8px;
 	margin-top: 8px;
 	margin-left: 39px;
+	margin-bottom: 16px;
 }
