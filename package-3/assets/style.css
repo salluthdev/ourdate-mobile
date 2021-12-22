@@ -487,10 +487,12 @@ p
 .container .love-story .love-wrapper .love-decoration::after
 {
 	position: absolute;
-	bottom: 0;
+	top: 0;
 	left: 0;
 	content: '';
-	color: red;
+	width: 1px;
+	height: 300px;
+	background: var(--pink);
 }
 .container .love-story .love-wrapper p
 {
