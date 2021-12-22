@@ -484,3 +484,7 @@ p
 	height: 12px;
 	z-index: 100;
 }
+.container .love-story .love-wrapper p
+{
+	font-family: 'Parisienne', cursive;
+}
