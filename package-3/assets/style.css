@@ -460,3 +460,8 @@ p
 	margin-top: 17px;
 	margin-bottom: 38px;
 }
+.container .love-story .love-decoration
+{
+	position: relative;
+	background: var(--pink);
+}
