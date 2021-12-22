@@ -474,6 +474,7 @@ p
 }
 .container .love-story .love-wrapper .love-decoration
 {
+	position: relative;
 	width: 31px;
 	height: 31px;
 	background: var(--pink);
