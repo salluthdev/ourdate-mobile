@@ -479,7 +479,7 @@ p
 	top: 10px;
 	left: 8px;
 	content: '';
-	width: 15px;
+	width: 16px;
 	height: 12px;
 	background: url('img/love-icon.png');
 	background-repeat: no-repeat;
@@ -492,7 +492,7 @@ p
 	left: 15px;
 	content: '';
 	width: 2px;
-	height: 300px;
+	height: 200px;
 	background: var(--pink);
 	z-index: 1;
 }
