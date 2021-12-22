@@ -232,7 +232,7 @@ p
 {
 	margin-bottom: 18px;
 }
-.flower-5, .flower-9
+.flower-5, .flower-9, .flower-13
 {
 	position: absolute;
 	bottom: 0;
@@ -518,12 +518,6 @@ p
 .container .love-story .love-card:last-child
 {
 	margin-bottom: unset;
-}
-.flower-13
-{
-	position: absolute;
-	bottom: 0;
-	right: 0;
 }
 .container .galeri
 {
