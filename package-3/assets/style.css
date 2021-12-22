@@ -36,7 +36,8 @@ body
 	top: 0;
 	left: 0;
 }
-.flower-2, .flower-6, .flower-10
+.flower-2, .flower-6, .flower-10,
+.flower-14
 {
 	position: absolute;
 	top: 0;
@@ -523,10 +524,4 @@ p
 {
 	position: relative;
 	padding: 24px 16px;
-}
-.flower-14
-{
-	position: absolute;
-	top: 0;
-	right: 0;
 }
