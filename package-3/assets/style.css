@@ -460,14 +460,23 @@ p
 	margin-top: 17px;
 	margin-bottom: 38px;
 }
-.container .love-story .love-decoration
+.container .love-story .love-wrapper
 {
 	display: flex;
 }
-.container .love-story .love-decoration img
+.container .love-story .love-wrapper .love-decoration
 {
 	position: relative;
-	width: 14px;
+	width: 40px;
+	height: 40px;
 	background: var(--pink);
-	background-size: 33px;
+}
+.container .love-story .love-wrapper .love-decorationbefore
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	content: '';
+	width: 40px;
+	height: 40px;
 }
