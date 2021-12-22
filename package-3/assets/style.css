@@ -69,6 +69,8 @@ p
 .container .home .couple .octagon img
 {
 	width: 173px;
+	object-fit: cover;
+	object-position: center;
 	border: 1px solid var(--pink);
 	border-radius: 50%;
 	padding: 8px;
@@ -189,6 +191,9 @@ p
 }
 .container .mempelai .card img.mempelai
 {
+	width: 156px;
+	object-fit: cover;
+	object-position: center;
 	border: 1px solid var(--pink);
 	border-radius: 50%;
 	padding: 8px;
