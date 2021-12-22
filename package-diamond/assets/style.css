@@ -537,6 +537,20 @@ p
 	object-position: center;
 	border-radius: 8px;
 }
+.container .love-story .love-card .love-content
+{
+	display: flex;
+	flex-direction: column;
+	text-align: left;
+}
+.container .love-story .love-card .love-content p
+{
+	font-size: 11px;
+	color: #535962;
+	line-height: 15.4px;
+	margin-top: 4px;
+	margin-left: 8px;
+}
 .container .galeri
 {
 	position: relative;
