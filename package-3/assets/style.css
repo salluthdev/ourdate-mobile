@@ -488,7 +488,7 @@ p
 {
 	position: absolute;
 	top: 0;
-	left: 0;
+	left: 15px;
 	content: '';
 	width: 1px;
 	height: 300px;
