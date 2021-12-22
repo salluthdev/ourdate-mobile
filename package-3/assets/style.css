@@ -467,8 +467,8 @@ p
 .container .love-story .love-wrapper .love-decoration
 {
 	position: relative;
-	width: 40px;
-	height: 40px;
+	width: 31px;
+	height: 31px;
 	background: var(--pink);
 	border-radius: 50%;
 }
