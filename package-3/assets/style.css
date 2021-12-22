@@ -472,7 +472,6 @@ p
 	height: 31px;
 	background: var(--pink);
 	border-radius: 50%;
-	z-index: 10;
 }
 .container .love-story .love-wrapper .love-decoration::before
 {
