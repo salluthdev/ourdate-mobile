@@ -490,7 +490,7 @@ p
 	top: 0;
 	left: 15px;
 	content: '';
-	width: 1px;
+	width: 2px;
 	height: 300px;
 	background: var(--pink);
 }
