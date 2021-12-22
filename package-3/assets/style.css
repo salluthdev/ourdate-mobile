@@ -462,6 +462,12 @@ p
 }
 .container .love-story .love-decoration
 {
+	display: flex;
+}
+.container .love-story .love-decoration img
+{
 	position: relative;
+	width: 14px;
 	background: var(--pink);
+	background-size: 33px;
 }
