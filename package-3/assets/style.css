@@ -496,6 +496,10 @@ p
 	background: var(--pink);
 	z-index: 1;
 }
+.container .love-story .love-wrapper .love-decoration.last::after
+{
+	display: none;
+}
 .container .love-story .love-wrapper p
 {
 	font-family: 'Parisienne', cursive;
