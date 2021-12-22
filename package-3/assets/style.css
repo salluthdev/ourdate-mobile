@@ -68,6 +68,7 @@ p
 }
 .container .home .couple .octagon img
 {
+	width: 173px;
 	border: 1px solid var(--pink);
 	border-radius: 50%;
 	padding: 8px;
@@ -468,7 +469,6 @@ p
 }
 .container .love-story .love-wrapper .love-decoration
 {
-	position: relative;
 	width: 31px;
 	height: 31px;
 	background: var(--pink);
