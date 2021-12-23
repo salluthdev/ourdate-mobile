@@ -601,4 +601,5 @@ p
 	background: var(--pink);
 	padding: 8px;
 	border: none;
+	border-radius: 8px;
 }
