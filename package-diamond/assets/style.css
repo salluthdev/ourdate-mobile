@@ -397,9 +397,12 @@ p
 	width: 48%;
 }
 .container .rsvp .rsvp-form input,
-.container .rsvp .rsvp-form select
+.container .rsvp .rsvp-form select,
+.container .ucapan-doa input,
+.container .ucapan-doa textarea
 {
 	width: 100%;
+	color: var(--brown);
 	padding: 11px 12px;
 	margin-bottom: 16px;
 	border: 1px solid var(--pink);
@@ -407,7 +410,9 @@ p
 	outline: none;
 }
 .container .rsvp .rsvp-form input::placeholder,
-.container .rsvp .rsvp-form select
+.container .rsvp .rsvp-form select,
+.container .ucapan-doa input::placeholder,
+.container .ucapan-doa textarea::placeholder
 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
@@ -612,4 +617,13 @@ p
 .container .wedding-gift .barcode-card .no-rek button a
 {
 	font-weight: normal;
+}
+.container .ucapan-doa
+{
+	padding: 24px 16px;
+}
+.container .ucapan-doa textarea
+{
+	height: 124px;
+	resize: none;
 }
