@@ -558,3 +558,7 @@ p
 	position: relative;
 	padding: 24px 16px;
 }
+.container .galeri img
+{
+	width: 100%;
+}
