@@ -517,6 +517,7 @@ p
 }
 .container .love-story .love-card
 {
+	position: relative;
 	width: 304px;
 	height: 116px;
 	display: flex;
@@ -524,6 +525,7 @@ p
 	border-radius: 8px;
 	padding: 8px;
 	margin: 8px 0 16px 39px;
+	z-index: 100;
 }
 .container .love-story .love-card:last-child
 {
