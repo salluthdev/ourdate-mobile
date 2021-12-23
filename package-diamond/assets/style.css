@@ -230,7 +230,7 @@ p
 	z-index: 1;
 }
 .container .mempelai .ayat p,
-.container .rsvp p
+.container .rsvp p, .container .wedding-gift p
 {
 	font-size: 14px;
 	color: var(--brown);
