@@ -246,7 +246,7 @@ p
 	right: 0;
 }
 .container .acara, .container .rsvp,
-.container .love-story
+.container .love-story, .container .wedding-gift
 {
 	position: relative;
 	background: #fff;
@@ -575,10 +575,4 @@ p
 {
 	width: 106px;
 	height: 80px;
-}
-.container .wedding-gift
-{
-	position: relative;
-	background: #fff;
-	padding: 24px 16px;
 }
