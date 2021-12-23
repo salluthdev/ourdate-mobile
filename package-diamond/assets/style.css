@@ -568,6 +568,7 @@ p
 .container .galeri .galeri-foto .galeri-small
 {
 	display: flex;
+	justify-content: space-between;
 }
 .container .galeri .galeri-foto .galeri-small img
 {
