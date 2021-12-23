@@ -590,4 +590,5 @@ p
 	display: flex;
 	padding: 12px;
 	border: 1px solid var(--pink);
+	border-radius: 10px;
 }
