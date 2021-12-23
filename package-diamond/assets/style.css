@@ -575,4 +575,5 @@ p
 .container .wedding-gift .barcode-card
 {
 	padding: 24px 68px;
+	border: 1px solid var(--pink);
 }
