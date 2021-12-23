@@ -423,7 +423,7 @@ p
 	right: 33px;
 	z-index: 10;
 }
-.container .prokes
+.container .prokes, .container .galeri
 {
 	position: relative;
 	padding: 24px 16px;
@@ -552,11 +552,6 @@ p
 	line-height: 15.4px;
 	margin-top: 4px;
 	margin-left: 8px;
-}
-.container .galeri
-{
-	position: relative;
-	padding: 24px 16px;
 }
 .container .galeri .galeri-foto img
 {
