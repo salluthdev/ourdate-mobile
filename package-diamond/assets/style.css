@@ -601,6 +601,7 @@ p
 {
 	background: var(--pink);
 	padding: 8px;
+	margin-left: 10px;
 	border: none;
 	border-radius: 8px;
 }
