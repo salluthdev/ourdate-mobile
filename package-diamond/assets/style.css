@@ -372,7 +372,8 @@ p
 	text-decoration: none;
 	color: #fff;
 }
-.container .rsvp h2
+.container .rsvp h2,
+.container .wedding-gift h2
 {
 	margin-bottom: 12px;
 }
