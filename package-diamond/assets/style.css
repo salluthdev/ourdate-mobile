@@ -569,3 +569,8 @@ p
 {
 	display: flex;
 }
+.container .galeri .galeri-foto .galeri-small img
+{
+	width: 106px;
+	height: 80px;
+}
