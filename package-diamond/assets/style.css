@@ -595,4 +595,5 @@ p
 .container .wedding-gift .barcode-card .no-rek button
 {
 	background: var(--pink);
+	padding: 8px;
 }
