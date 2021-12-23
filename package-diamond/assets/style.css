@@ -585,3 +585,7 @@ p
 {
 	margin: 32px 0;
 }
+.container .wedding-gift .barcode-card .no-rek
+{
+	display: flex;
+}
