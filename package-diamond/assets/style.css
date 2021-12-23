@@ -589,4 +589,5 @@ p
 {
 	display: flex;
 	padding: 12px;
+	border: 1px solid var(--pink);
 }
