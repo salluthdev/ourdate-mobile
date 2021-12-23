@@ -558,7 +558,8 @@ p
 	position: relative;
 	padding: 24px 16px;
 }
-.container .galeri img
+.container .galeri .galeri-foto img
 {
 	width: 100%;
+	border-radius: 8px;
 }
