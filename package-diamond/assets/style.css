@@ -600,4 +600,5 @@ p
 {
 	background: var(--pink);
 	padding: 8px;
+	border: none;
 }
