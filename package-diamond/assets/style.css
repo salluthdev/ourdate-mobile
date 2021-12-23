@@ -588,6 +588,7 @@ p
 .container .wedding-gift .barcode-card .no-rek
 {
 	display: flex;
+	align-items: center;
 	padding: 12px;
 	border: 1px solid var(--pink);
 	border-radius: 10px;
