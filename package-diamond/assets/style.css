@@ -364,7 +364,8 @@ p
 	border-radius: 10px;
 }
 .container .lokasi button a,
-.container .rsvp .rsvp-form button a
+.container .rsvp .rsvp-form button a,
+.container .wedding-gift .barcode-card .no-rek button a
 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
@@ -604,4 +605,8 @@ p
 	margin-left: 10px;
 	border: none;
 	border-radius: 8px;
+}
+.container .wedding-gift .barcode-card .no-rek button a
+{
+	
 }
