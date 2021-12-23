@@ -592,3 +592,7 @@ p
 	border: 1px solid var(--pink);
 	border-radius: 10px;
 }
+.container .wedding-gift .barcode-card .no-rek button
+{
+	background: var(--pink);
+}
