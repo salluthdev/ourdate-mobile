@@ -621,6 +621,10 @@ p
 {
 	font-weight: normal;
 }
+.container .ucapan-doa
+{
+	display: flex;
+}
 .container .ucapan-doa textarea
 {
 	height: 124px;
