@@ -641,7 +641,7 @@ p
 .container .ucapan-doa .ucapan-isi
 {
 	height: 360px;
-	overflow: hidden;
+	overflow: auto;
 }
 .container .ucapan-doa .ucapan-isi h4
 {
