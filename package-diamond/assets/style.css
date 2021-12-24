@@ -654,3 +654,7 @@ p
 	line-height: 16.8px;
 	margin: 8px 0 20px;
 }
+.container .footer
+{
+	background: #303030;
+}
