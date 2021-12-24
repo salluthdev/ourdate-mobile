@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 :root
 {
 	--brown: #5d534a;
@@ -666,7 +666,6 @@ p
 {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
-	font-weight: 300;
 	color: #fff;
 	text-align: center;
 	margin-bottom: 18px;
@@ -674,4 +673,8 @@ p
 .container .footer p span
 {
 	font-weight: bold;
+}
+.container .footer img:first-child
+{
+	margin-right: 28px;
 }
