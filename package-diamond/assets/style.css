@@ -666,3 +666,7 @@ p
 	color: #fff;
 	text-align: center;
 }
+.container .footer p span
+{
+	font-weight: bold;
+}
