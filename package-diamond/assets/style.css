@@ -355,7 +355,8 @@ p
 	z-index: 1;
 }
 .container .lokasi button,
-.container .rsvp .rsvp-form button
+.container .rsvp .rsvp-form button,
+.container .ucapan-doa button
 {
 	background: var(--pink);
 	padding: 10px 12px;
