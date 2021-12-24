@@ -432,7 +432,8 @@ p
 	right: 33px;
 	z-index: 10;
 }
-.container .prokes, .container .galeri
+.container .prokes, .container .galeri,
+.container .ucapan-doa
 {
 	position: relative;
 	padding: 24px 16px;
@@ -619,11 +620,6 @@ p
 .container .wedding-gift .barcode-card .no-rek button a
 {
 	font-weight: normal;
-}
-.container .ucapan-doa
-{
-	position: relative;
-	padding: 24px 16px;
 }
 .container .ucapan-doa textarea
 {
