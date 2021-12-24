@@ -622,6 +622,7 @@ p
 }
 .container .ucapan-doa
 {
+	position: relative;
 	padding: 24px 16px;
 }
 .container .ucapan-doa textarea
