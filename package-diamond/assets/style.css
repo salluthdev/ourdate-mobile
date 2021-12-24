@@ -621,6 +621,10 @@ p
 {
 	font-weight: normal;
 }
+.container .ucapan-doa
+{
+	padding-bottom: 18px;
+}
 .container .ucapan-doa .ucapan-form
 {
 	display: flex;
