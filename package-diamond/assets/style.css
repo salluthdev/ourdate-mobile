@@ -627,4 +627,5 @@ p
 {
 	height: 124px;
 	resize: none;
+	margin-bottom: unset;
 }
