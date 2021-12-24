@@ -660,3 +660,7 @@ p
 	background: #303030;
 	padding: 24px 86px;
 }
+.container .footer p
+{
+	text-align: center;
+}
