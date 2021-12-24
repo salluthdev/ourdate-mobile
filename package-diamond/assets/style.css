@@ -624,6 +624,7 @@ p
 .container .ucapan-doa
 {
 	display: flex;
+	flex-direction: column;
 }
 .container .ucapan-doa textarea
 {
