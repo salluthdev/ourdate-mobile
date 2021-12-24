@@ -366,7 +366,8 @@ p
 }
 .container .lokasi button a,
 .container .rsvp .rsvp-form button a,
-.container .wedding-gift .barcode-card .no-rek button a
+.container .wedding-gift .barcode-card .no-rek button a,
+.container .ucapan-doa button a
 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
