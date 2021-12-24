@@ -638,6 +638,10 @@ p
 	resize: none;
 	margin-bottom: unset;
 }
+.container .ucapan-doa .ucapan-isi
+{
+	overflow: hidden;
+}
 .container .ucapan-doa .ucapan-isi h4
 {
 	color: var(--brown);
