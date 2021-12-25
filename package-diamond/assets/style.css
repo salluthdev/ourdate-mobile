@@ -687,3 +687,7 @@ p
 	background: #fff;
 	padding: 9px 1px;
 }
+.container .nav div
+{
+	display: flex;
+}
