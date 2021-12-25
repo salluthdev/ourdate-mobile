@@ -683,7 +683,7 @@ p
 .container .nav
 {
 	display: flex;
-	justify-content: center;
+	justify-content: space-between;
 	height: 61px;
 	background: #fff;
 	padding: 9px 1px;
