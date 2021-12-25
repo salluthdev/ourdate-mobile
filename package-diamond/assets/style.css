@@ -682,6 +682,7 @@ p
 }
 .container .nav
 {
+	display: flex;
 	height: 61px;
 	background: #fff;
 	padding: 9px 1px;
