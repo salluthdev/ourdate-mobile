@@ -23,6 +23,7 @@ body
 	width: 375px;
 	margin: 0 auto;
 	background: #fbf0ec;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 .container .home
 {
@@ -66,7 +67,17 @@ p
 	font-weight: normal;
 	margin: 8px 0 20px;
 }
-.container .home .couple .octagon img
+.container .home .couple .octagon
+{
+	position: relative;
+}
+.container .home .couple .octagon img.leaves-1
+{
+	position: absolute;
+	top: -13px;
+	left: 36px;
+}
+.container .home .couple .octagon img.img-couple
 {
 	width: 173px;
 	object-fit: cover;
@@ -661,6 +672,7 @@ p
 	align-items: center;
 	background: #303030;
 	padding: 24px 86px;
+	margin-bottom: 61px;
 }
 .container .footer p
 {
@@ -682,12 +694,21 @@ p
 }
 .container .nav
 {
+	position: fixed;
+	bottom: 0;
+	width: 375px;
 	display: flex;
 	justify-content: space-between;
 	align-items: flex-end;
 	height: 61px;
 	background: #fff;
-	padding: 9px 1px 7px;
+	padding: 9px 1px 6px;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
+	z-index: 100;
+}
+.container .nav a
+{
+	text-decoration: none;
 }
 .container .nav div
 {
