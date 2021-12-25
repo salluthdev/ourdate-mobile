@@ -680,3 +680,7 @@ p
 {
 	margin-right: 28px;
 }
+.container .nav
+{
+	height: 60px;
+}
