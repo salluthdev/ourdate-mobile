@@ -77,6 +77,12 @@ p
 	top: -13px;
 	left: 36px;
 }
+.container .home .couple .octagon img.leaves-2
+{
+	position: absolute;
+	bottom: -14px;
+	right: 94px;
+}
 .container .home .couple .octagon img.img-couple
 {
 	width: 173px;
