@@ -696,6 +696,7 @@ p
 }
 .container .nav div p
 {
+	min-width: 53px;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 10px;
 }
