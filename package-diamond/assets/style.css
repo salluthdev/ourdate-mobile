@@ -684,6 +684,7 @@ p
 {
 	display: flex;
 	justify-content: space-between;
+	align-items: flex-end;
 	height: 61px;
 	background: #fff;
 	padding: 9px 1px;
