@@ -699,5 +699,6 @@ p
 	min-width: 53px;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 10px;
+	color: var(--brown);
 	text-align: center;
 }
