@@ -231,7 +231,8 @@ p
 	color: var(--brown);
 	z-index: 1;
 }
-.container .mempelai .liaison img
+.container .mempelai .liaison img,
+.container .acara .card .date-wrapper img
 {
 	position: absolute;
 	top: 0;
@@ -292,12 +293,6 @@ p
 	position: relative;
 	height: 94px;
 	padding: 24px;
-}
-.container .acara .card .date-wrapper img
-{
-	position: absolute;
-	top: 0;
-	transform: translateX(-50%);
 }
 .container .acara .card .date-wrapper h1
 {
