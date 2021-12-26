@@ -182,7 +182,7 @@ p
 {
 	position: relative;
 }
-.container .mempelai .card .mempelai-image img
+.container .mempelai .card .mempelai-image-wrapper img
 {
 	width: 156px;
 	object-fit: cover;
