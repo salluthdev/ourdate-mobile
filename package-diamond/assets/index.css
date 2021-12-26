@@ -17,3 +17,10 @@ body
 	font-family: 'Open Sans', sans-serif;
 	background: #e5e5e5;
 }
+.container
+{
+	width: 375px;
+	margin: 0 auto;
+	background: #fbf0ec;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
+}
