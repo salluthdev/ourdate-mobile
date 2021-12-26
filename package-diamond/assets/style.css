@@ -235,7 +235,7 @@ p
 {
 	position: absolute;
 	top: 0;
-	left: 108px;
+	transform: translateX(-50%);
 }
 .container .mempelai .ayat
 {
