@@ -227,6 +227,7 @@ p
 	font-family: 'Parisienne', cursive;
 	font-size: 40px;
 	font-weight: normal;
+	color: var(--brown);
 	z-index: 1;
 }
 .container .mempelai .liaison img
