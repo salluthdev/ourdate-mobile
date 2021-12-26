@@ -92,34 +92,6 @@ p
 	border-radius: 50%;
 	padding: 8px;
 }
-/*
-.octagonal-wrapper
-{
-    transform: rotate(45deg);
-}
-.octagonal-wrapper,
-.octagonal-wrapper .octagonal
-{
-    margin: 0 auto;
-    overflow: hidden;
-    width: 150px;
-    height: 150px;
-}
-.octagonal-wrapper .octagonal
-{
-    transform: rotate(-45deg);
-}
-.octagonal-wrapper .octagonal .couple-image
-{
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-    object-position: center;
-    border: 1px solid var(--pink);
-	padding: 10px;
-	border-radius: 5px;
-}
-*/
 .container .home .couple .content,
 .container .home .timer .box p,
 .container .mempelai .card p
