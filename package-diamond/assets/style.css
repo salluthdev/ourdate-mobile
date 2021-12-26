@@ -191,6 +191,10 @@ p
 	border-radius: 50%;
 	padding: 8px;
 }
+.container .mempelai .card .mempelai-image img.bunga-mempelai
+{
+	position: absolute;
+}
 .container .mempelai .card h1
 {
 	font-family: 'Parisienne', cursive;
