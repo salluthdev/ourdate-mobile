@@ -217,6 +217,10 @@ p
 	color: var(--brown);
 	margin-left: 6px;
 }
+.container .mempelai .liaison
+{
+	position: relative;
+}
 .container .mempelai .ayat
 {
 	position: relative;
