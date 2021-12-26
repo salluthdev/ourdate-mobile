@@ -227,6 +227,10 @@ p
 	font-size: 40px;
 	font-weight: normal;
 }
+.container .mempelai .liaison img
+{
+	position: absolute;
+}
 .container .mempelai .ayat
 {
 	position: relative;
