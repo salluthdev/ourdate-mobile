@@ -194,6 +194,8 @@ p
 .container .mempelai .card .mempelai-image img.bunga-mempelai
 {
 	position: absolute;
+	bottom: 0;
+	left: 0;
 }
 .container .mempelai .card h1
 {
