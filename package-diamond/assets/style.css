@@ -178,6 +178,10 @@ p
 {
 	margin-bottom: 88px;
 }
+.container .mempelai .card .mempelai-image
+{
+	position: relative;
+}
 .container .mempelai .card .mempelai-image img
 {
 	width: 156px;
