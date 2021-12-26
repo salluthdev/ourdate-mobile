@@ -178,11 +178,11 @@ p
 {
 	margin-bottom: 88px;
 }
-.container .mempelai .card .mempelai-image-wrapper
+.container .mempelai .card .mempelai-image
 {
 	position: relative;
 }
-.container .mempelai .card .mempelai-image-wrapper img
+.container .mempelai .card .mempelai-image img:first-child
 {
 	width: 156px;
 	object-fit: cover;
