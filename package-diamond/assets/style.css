@@ -221,6 +221,11 @@ p
 {
 	position: relative;
 }
+.container .mempelai .liaison h1
+{
+	font-family: 'Parisienne', cursive;
+	font-weight: normal;
+}
 .container .mempelai .ayat
 {
 	position: relative;
