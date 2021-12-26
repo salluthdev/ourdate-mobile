@@ -223,6 +223,7 @@ p
 }
 .container .mempelai .liaison h1
 {
+	position: relative;
 	font-family: 'Parisienne', cursive;
 	font-size: 40px;
 	font-weight: normal;
