@@ -68,6 +68,7 @@ body
 .container.index .couple .nama-penerima
 {
 	width: 161px;
+	border: 1px solid var(--pink);
 }
 
 /* Style CSS - Undangan HTML */
