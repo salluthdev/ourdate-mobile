@@ -65,6 +65,10 @@ body
 	bottom: 22px;
 	right: -24px;
 }
+.container.index .couple .nama-penerima
+{
+	width: 161px;
+}
 
 /* Style CSS - Undangan HTML */
 .container .home
