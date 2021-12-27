@@ -30,6 +30,8 @@ body
 .container.index .couple
 {
 	background: #fff;
+	text-align: center;
+	color: var(--brown);
 }
 
 /* Style CSS - Undangan HTML */
