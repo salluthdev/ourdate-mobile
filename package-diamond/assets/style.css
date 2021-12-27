@@ -69,6 +69,7 @@ body
 {
 	width: 161px;
 	border: 1px solid var(--pink);
+	border-radius: 10px;
 }
 
 /* Style CSS - Undangan HTML */
