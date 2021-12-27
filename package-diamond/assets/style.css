@@ -67,7 +67,6 @@ body
 }
 .container.index .couple .nama-penerima
 {
-	width: 161px;
 	border: 1px solid var(--pink);
 	border-radius: 10px;
 	padding: 16px 24px;
