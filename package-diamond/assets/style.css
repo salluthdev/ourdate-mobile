@@ -42,6 +42,10 @@ body
 {
 	margin-bottom: 30px;
 }
+.container.index .couple .octagon img.img-couple
+{
+	border: 1px solid #c4c4c4;
+}
 .container.index .couple .octagon img.leaves-1
 {
 	position: absolute;
