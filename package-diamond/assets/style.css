@@ -74,6 +74,7 @@ body
 	border: 1px solid var(--pink);
 	border-radius: 10px;
 	padding: 16px 24px;
+	margin-bottom: 12px;
 }
 .container.index .couple .nama-penerima p
 {
@@ -82,6 +83,7 @@ body
 }
 .container.index .couple p.note
 {
+	width: 148px;
 	font-size: 10px;
 }
 
