@@ -59,6 +59,10 @@ body
 	bottom: -14px;
 	right: 50px;
 }
+.container.index .couple .octagon img.leaves-3
+{
+	position: absolute;
+}
 
 /* Style CSS - Undangan HTML */
 .container .home
