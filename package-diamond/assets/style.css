@@ -50,7 +50,7 @@ body
 .container.index .couple .octagon img.leaves-1
 {
 	position: absolute;
-	top: -13px;
+	top: -14px;
 	left: -8px;
 }
 .container.index .couple .octagon img.leaves-2
@@ -62,8 +62,8 @@ body
 .container.index .couple .octagon img.leaves-3
 {
 	position: absolute;
-	bottom: 0;
-	right: 0;
+	bottom: 22px;
+	right: -24px;
 }
 
 /* Style CSS - Undangan HTML */
