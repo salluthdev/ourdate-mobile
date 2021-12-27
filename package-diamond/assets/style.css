@@ -29,6 +29,7 @@ body
 /* Style CSS - Index HTML */
 .container.index .couple
 {
+	height: 100vh;
 	display: flex;
 	flex-direction: column;
 	background: #fff;
