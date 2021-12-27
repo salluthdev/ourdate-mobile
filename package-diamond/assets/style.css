@@ -30,6 +30,7 @@ body
 .container.index .couple
 {
 	display: flex;
+	flex-direction: column;
 	background: #fff;
 	text-align: center;
 	color: var(--brown);
