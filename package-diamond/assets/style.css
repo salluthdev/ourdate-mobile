@@ -91,6 +91,26 @@ body
 {
 	margin-bottom: 14px;
 }
+.container.index .couple .popup_box
+{
+	width: 343px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: #fff;
+	text-align: center;
+	align-items: center;
+	border: 1px solid #d3d3d3;
+	border-radius: 20px;
+	padding: 40px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+	transition: all 0.4s ease-in-out;
+	opacity: 0;
+	pointer-events: none;
+	user-select: none;
+	z-index: 1;
+}
 
 /* Style CSS - Undangan HTML */
 .container .home
