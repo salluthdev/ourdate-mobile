@@ -80,6 +80,10 @@ body
 	font-size: 12px;
 	margin-bottom: 8px;
 }
+.container.index .couple p.note
+{
+	font-size: 10px;
+}
 
 /* Style CSS - Undangan HTML */
 .container .home
