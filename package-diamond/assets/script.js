@@ -6,19 +6,20 @@ $(document).ready(function()
 		{
 			"opacity":"1", "pointer-events":"auto"
 		});
+		$('.dark').css(
+		{
+			"display":"block"
+		});
 	});
-	$('.btn_no').click(function()
+	$('.close').click(function()
 	{
 		$('.popup_box').css(
 		{
 			"opacity":"0", "pointer-events":"none"
 		});
-	});
-	$('.btn_yes').click(function()
-	{
-		$('.popup_box').css(
+		$('.dark').css(
 		{
-			"opacity":"0", "pointer-events":"none"
+			"display":"none"
 		});
 	});
 });
