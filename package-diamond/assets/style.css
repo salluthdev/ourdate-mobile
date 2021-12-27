@@ -27,6 +27,10 @@ body
 }
 
 /* Style CSS - Index HTML */
+.container.index .couple
+{
+	background: #fff;
+}
 
 /* Style CSS - Undangan HTML */
 .container .home
