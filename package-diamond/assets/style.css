@@ -38,6 +38,10 @@ body
 	text-align: center;
 	color: var(--brown);
 }
+.container.index .couple .octagon
+{
+	margin-bottom: 30px;
+}
 .container.index .couple .octagon img.leaves-1
 {
 	position: absolute;
