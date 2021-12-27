@@ -45,7 +45,7 @@ body
 .container.index .couple .octagon img.img-couple
 {
 	border: none;
-	
+	box-shadow: -2px 2px 20px #c4c4c4;
 }
 .container.index .couple .octagon img.leaves-1
 {
