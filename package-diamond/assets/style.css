@@ -38,6 +38,18 @@ body
 	text-align: center;
 	color: var(--brown);
 }
+.container.index .couple .octagon img.leaves-1
+{
+	position: absolute;
+	top: -13px;
+	left: 36px;
+}
+.container.index .couple .octagon img.leaves-2
+{
+	position: absolute;
+	bottom: -14px;
+	right: 94px;
+}
 
 /* Style CSS - Undangan HTML */
 .container .home
