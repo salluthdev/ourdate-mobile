@@ -201,6 +201,8 @@ p
 .container .couple .octagon img.couple-border
 {
 	position: absolute;
+	top: 0;
+	
 }
 .container .home .couple .octagon img.leaves-1
 {
