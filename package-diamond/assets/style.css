@@ -198,6 +198,10 @@ p
 	object-fit: cover;
 	object-position: center;
 }
+.container .couple .octagon img.couple-border
+{
+	position: absolute;
+}
 .container .home .couple .octagon img.leaves-1
 {
 	position: absolute;
