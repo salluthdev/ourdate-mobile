@@ -202,7 +202,7 @@ p
 {
 	position: absolute;
 	top: 0;
-	
+	transform: translateX(-100%);
 }
 .container .home .couple .octagon img.leaves-1
 {
