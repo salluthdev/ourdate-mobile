@@ -877,4 +877,9 @@ p
 	{
 		padding: 24px 16px;
 	}
+	.container .prokes, .container .galeri,
+	.container .ucapan-doa
+	{
+		padding: 24px 16px;
+	}
 }
