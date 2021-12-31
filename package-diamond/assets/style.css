@@ -852,3 +852,11 @@ p
 	text-align: center;
 	margin-top: 5px;
 }
+
+@media (max-width: 760px)
+{
+	.container
+	{
+		width: 100%;
+	}
+}
