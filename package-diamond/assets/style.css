@@ -149,7 +149,7 @@ body
 .container .home
 {
 	position: relative;
-	padding: 48px;
+	padding: 48px 48px 24px;
 }
 .flower-1, .flower-4, .flower-8,
 .flower-12
@@ -859,4 +859,9 @@ p
 	{
 		width: 100%;
 	}
+}
+
+@media (max-width: 480px)
+{
+
 }
