@@ -479,7 +479,7 @@ p
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	padding: 24px 16px;
+	padding: 24px 32px;
 }
 .container .lokasi .peta img
 {
@@ -872,7 +872,8 @@ p
 		padding: 24px 32px;
 	}
 	.container .acara, .container .rsvp,
-	.container .love-story, .container .wedding-gift
+	.container .love-story, .container .wedding-gift,
+	.container .lokasi
 	{
 		padding: 24px 16px;
 	}
