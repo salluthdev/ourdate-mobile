@@ -855,7 +855,7 @@ p
 
 @media (max-width: 760px)
 {
-	.container
+	.container, .container .nav
 	{
 		width: 100%;
 	}
