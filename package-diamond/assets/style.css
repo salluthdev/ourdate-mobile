@@ -871,4 +871,9 @@ p
 	{
 		padding: 24px 32px;
 	}
+	.container .acara, .container .rsvp,
+	.container .love-story, .container .wedding-gift
+	{
+		padding: 24px 16px;
+	}
 }
