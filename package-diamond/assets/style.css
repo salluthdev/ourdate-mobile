@@ -20,7 +20,7 @@ body
 }
 .container
 {
-	width: 375px;
+	width: 40vw;
 	margin: 0 auto;
 	background: #fbf0ec;
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
@@ -149,7 +149,7 @@ body
 .container .home
 {
 	position: relative;
-	padding: 24px;
+	padding: 48px;
 }
 .flower-1, .flower-4, .flower-8,
 .flower-12
@@ -282,7 +282,7 @@ p
 {
 	position: relative;
 	text-align: center;
-	padding: 24px 45px;
+	padding: 24px 48px;
 }
 .container h2.title
 {
@@ -391,7 +391,7 @@ p
 {
 	position: relative;
 	background: #fff;
-	padding: 24px 16px;
+	padding: 24px 32px;
 	text-align: center;
 }
 .container .acara .card
@@ -573,7 +573,7 @@ p
 .container .ucapan-doa
 {
 	position: relative;
-	padding: 24px 16px;
+	padding: 24px 32px;
 }
 .container .prokes .prokes-notice
 {
@@ -822,7 +822,7 @@ p
 {
 	position: fixed;
 	bottom: 0;
-	width: 375px;
+	width: 40vw;
 	display: flex;
 	justify-content: space-between;
 	align-items: flex-end;
