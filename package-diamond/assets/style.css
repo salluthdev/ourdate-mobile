@@ -282,7 +282,7 @@ p
 {
 	position: relative;
 	text-align: center;
-	padding: 24px 48px;
+	padding: 24px 64px;
 }
 .container h2.title
 {
@@ -866,5 +866,9 @@ p
 	.container .home
 	{
 		padding: 24px;
+	}
+	.container .mempelai
+	{
+		padding: 24px 32px;
 	}
 }
