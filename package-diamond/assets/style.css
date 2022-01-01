@@ -897,6 +897,10 @@ p
 	{
 		padding: 24px 12px;
 	}
+	.container .home .timer .box
+	{
+		width: 68px;
+	}
 	.container .mempelai
 	{
 		padding: 24px 32px;
