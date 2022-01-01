@@ -794,7 +794,7 @@ p
 	flex-direction: column;
 	align-items: center;
 	background: #303030;
-	padding: 24px 86px;
+	padding: 24px 0;
 	margin-bottom: 61px;
 }
 .container .footer p
