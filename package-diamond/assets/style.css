@@ -288,6 +288,7 @@ p
 {
 	position: relative;
 	display: flex;
+	flex-direction: column;
 	background: #fff;
 	padding: 24px 28px;
 	z-index: 1;
