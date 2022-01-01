@@ -866,12 +866,8 @@ p
 	}
 	.container .acara, .container .rsvp,
 	.container .love-story, .container .wedding-gift,
-	.container .lokasi
-	{
-		padding: 24px 16px;
-	}
-	.container .prokes, .container .galeri,
-	.container .ucapan-doa
+	.container .lokasi, .container .prokes,
+	.container .galeri, .container .ucapan-doa
 	{
 		padding: 24px 16px;
 	}
