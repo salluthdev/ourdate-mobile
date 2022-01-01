@@ -908,4 +908,8 @@ p
 	{
 		padding: 24px 12px;
 	}
+	.container .prokes .prokes-notice .prokes-card
+	{
+		width: 92px;
+	}
 }
