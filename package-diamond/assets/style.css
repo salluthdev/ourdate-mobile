@@ -295,11 +295,11 @@ p
 .container .mempelai .card .mempelai-image
 {
 	position: relative;
-	width: 156px;
+	width: 145px;
 }
 .container .mempelai .card .mempelai-image img:first-child
 {
-	width: 156px;
+	width: 100%;
 	object-fit: cover;
 	object-position: center;
 	border: 1px solid var(--pink);
@@ -310,7 +310,7 @@ p
 {
 	position: absolute;
 	bottom: -15px;
-	left: 73px;
+	left: 0;
 }
 .container .mempelai .card h1
 {
