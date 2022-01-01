@@ -26,7 +26,7 @@ $(document).ready(function()
 	{
 		$('.open-inv').css(
 		{
-			"margin-top":"-900px"
+			"margin-top":"-100vh"
 		});
 	});
 });
