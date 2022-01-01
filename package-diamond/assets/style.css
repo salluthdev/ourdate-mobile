@@ -877,4 +877,8 @@ p
 	{
 		width: calc(100% - 40px);
 	}
+	.container .love-story .love-wrapper .love-decoration::after
+	{
+		height: 200px;
+	}
 }
