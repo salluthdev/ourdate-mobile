@@ -85,7 +85,7 @@ body
 .container .open-inv .couple .popup_box
 {
 	width: 343px;
-	position: absolute;
+	position: fixed;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
@@ -137,7 +137,7 @@ body
 	display: none;
 	background: #202020;
 	opacity: 0.5;
-	z-index: 100;
+	z-index: 1000;
 }
 
 /* Style CSS - Undangan HTML */
@@ -836,7 +836,7 @@ p
 	background: #fff;
 	padding: 9px 1px 6px;
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
-	z-index: 100;
+	z-index: 10;
 }
 .container .nav a
 {
