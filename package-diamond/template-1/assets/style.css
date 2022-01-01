@@ -32,6 +32,7 @@ body
 	position: fixed;
 	width: 40vw;
 	z-index: 1000;
+	transition: 2s ease-in;
 }
 .container .open-inv .couple
 {
