@@ -22,4 +22,11 @@ $(document).ready(function()
 			"display":"none"
 		});
 	});
+	$('.buka-undangan').click(function()
+	{
+		$('.open-inv').css(
+		{
+			"margin-top":"-900px"
+		});
+	});
 });
