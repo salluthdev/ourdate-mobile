@@ -710,6 +710,8 @@ p
 {
 	width: 106px;
 	height: 80px;
+	object-fit: cover;
+	object-position: center;
 }
 .container .wedding-gift .barcode-card
 {
