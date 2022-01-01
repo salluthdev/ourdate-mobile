@@ -42,18 +42,6 @@ body
 {
 	margin-bottom: 30px;
 }
-.container.index .couple .octagon img.leaves-1
-{
-	position: absolute;
-	top: -14px;
-	left: -5px;
-}
-.container.index .couple .octagon img.leaves-2
-{
-	position: absolute;
-	bottom: -6px;
-	right: 50px;
-}
 .container.index .couple .octagon img.leaves-3
 {
 	position: absolute;
@@ -208,13 +196,13 @@ p
 	top: 0;
 	transform: translateX(-100%);
 }
-.container .home .couple .octagon img.leaves-1
+.container .couple .octagon img.leaves-1
 {
 	position: absolute;
 	top: -14px;
 	left: -5px;
 }
-.container .home .couple .octagon img.leaves-2
+.container .couple .octagon img.leaves-2
 {
 	position: absolute;
 	bottom: -6px;
