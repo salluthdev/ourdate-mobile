@@ -912,4 +912,8 @@ p
 	{
 		width: 92px;
 	}
+	.container .nav div p
+	{
+		min-width: 40px;
+	}
 }
