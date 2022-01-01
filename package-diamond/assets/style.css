@@ -887,7 +887,7 @@ p
 	}
 }
 
-@media (max-width: 360px)
+@media (max-width: 360px), (max-width: 997px) and (min-width: 761px)
 {
 	.container .home
 	{
