@@ -875,4 +875,8 @@ p
 	{
 		padding: 24px 16px;
 	}
+	.container .love-story .love-card
+	{
+		width: calc(100% - 40px);
+	}
 }
