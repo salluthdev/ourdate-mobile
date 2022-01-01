@@ -27,10 +27,6 @@ body
 }
 
 /* Open Invitation */
-.container .open-inv
-{
-	display: none;
-}
 .container .open-inv .couple
 {
 	height: 100vh;
