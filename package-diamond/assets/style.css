@@ -891,5 +891,31 @@ p
 
 @media (max-width: 360px)
 {
-	
+	.container .home
+	{
+		padding: 24px 12px;
+	}
+	.container .mempelai
+	{
+		padding: 24px 32px;
+	}
+	.container .acara, .container .rsvp,
+	.container .love-story, .container .wedding-gift,
+	.container .lokasi, .container .prokes,
+	.container .galeri, .container .ucapan-doa
+	{
+		padding: 24px 16px;
+	}
+	.container .love-story .love-card
+	{
+		width: calc(100% - 40px);
+	}
+	.container .love-story .love-wrapper .love-decoration::after
+	{
+		height: 200px;
+	}
+	.container .footer
+	{
+		padding: 24px 42px;
+	}
 }
