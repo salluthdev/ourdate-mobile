@@ -287,6 +287,7 @@ p
 .container .mempelai .card
 {
 	position: relative;
+	display: flex;
 	background: #fff;
 	padding: 24px 28px;
 	z-index: 1;
