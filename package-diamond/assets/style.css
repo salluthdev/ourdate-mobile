@@ -708,7 +708,7 @@ p
 }
 .container .galeri .galeri-foto .galeri-small img
 {
-	width: 106px;
+	width: 30%;
 	height: 80px;
 	object-fit: cover;
 	object-position: center;
