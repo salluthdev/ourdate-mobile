@@ -31,7 +31,7 @@ body
 {
 	display: none;
 }
-.container.open-inv .couple
+.container .open-inv .couple
 {
 	height: 100vh;
 	display: flex;
@@ -42,44 +42,44 @@ body
 	text-align: center;
 	color: var(--brown);
 }
-.container.open-inv .couple .octagon
+.container .open-inv .couple .octagon
 {
 	margin-bottom: 30px;
 }
-.container.open-inv .couple .octagon img.leaves-3
+.container .open-inv .couple .octagon img.leaves-3
 {
 	position: absolute;
 	bottom: 22px;
 	right: -24px;
 }
-.container.open-inv .couple .title h1
+.container .open-inv .couple .title h1
 {
 	margin-bottom: 16px;
 }
-.container.open-inv .couple .nama-penerima
+.container .open-inv .couple .nama-penerima
 {
 	border: 1px solid var(--pink);
 	border-radius: 10px;
 	padding: 16px 24px;
 	margin-bottom: 12px;
 }
-.container.open-inv .couple .nama-penerima p
+.container .open-inv .couple .nama-penerima p
 {
 	font-size: 12px;
 	margin-bottom: 8px;
 }
-.container.open-inv .couple p.note
+.container .open-inv .couple p.note
 {
 	width: 148px;
 	font-size: 10px;
 	margin-bottom: 8px;
 	line-height: 14px;
 }
-.container.open-inv .couple button
+.container .open-inv .couple button
 {
 	margin-bottom: 14px;
 }
-.container.open-inv .couple .popup_box
+.container .open-inv .couple .popup_box
 {
 	width: 343px;
 	position: absolute;
@@ -99,26 +99,26 @@ body
 	user-select: none;
 	z-index: 1000;
 }
-.container.open-inv .couple .popup_box img.close
+.container .open-inv .couple .popup_box img.close
 {
 	position: absolute;
 	top: 20px;
 	right: 20px;
 	cursor: pointer;
 }
-.container.open-inv .couple .popup_box h3
+.container .open-inv .couple .popup_box h3
 {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 20px;
 }
-.container.open-inv .couple .popup_box img.barcode
+.container .open-inv .couple .popup_box img.barcode
 {
 	border-radius: 8px;
 	padding: 12px;
 	margin: 32px 0 24px;
 	box-shadow: 0px 4px 20px 0px rgba(72, 72, 72, 0.2);
 }
-.container.open-inv .couple .popup_box p
+.container .open-inv .couple .popup_box p
 {
 	width: 197px;
 	font-family: 'Montserrat', sans-serif;
