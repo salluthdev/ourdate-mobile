@@ -191,6 +191,7 @@ p
 .container .couple .octagon
 {
 	position: relative;
+	width: 167px;
 }
 .container .couple .octagon img.img-couple
 {
