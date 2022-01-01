@@ -888,3 +888,8 @@ p
 		padding: 24px 42px;
 	}
 }
+
+@media (max-width: 360px)
+{
+	
+}
