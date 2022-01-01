@@ -136,7 +136,7 @@ body
 	display: none;
 	background: #202020;
 	opacity: 0.5;
-	z-index: 100;
+	z-index: 1000;
 }
 
 /* Style CSS - Undangan HTML */
