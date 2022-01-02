@@ -86,7 +86,7 @@ body
 {
 	width: 343px;
 	position: fixed;
-	top: 50%;
+	top: -100vh;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	display: flex;
