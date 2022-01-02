@@ -92,8 +92,9 @@ body
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	text-align: center;
 	background: #fff;
+	color: var(--brown);
+	text-align: center;
 	border: 1px solid #d3d3d3;
 	border-radius: 20px;
 	padding: 40px;
