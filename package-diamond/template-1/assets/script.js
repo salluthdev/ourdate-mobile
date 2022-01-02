@@ -15,7 +15,7 @@ $(document).ready(function()
 	{
 		$('.popup_box').css(
 		{
-			"opacity":"0", "pointer-events":"none"
+			"opacity":"0", "margin-top":"-100vh", "pointer-events":"none"
 		});
 		$('.dark').css(
 		{
