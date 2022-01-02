@@ -31,7 +31,7 @@ body
 {
 	position: fixed;
 	width: 40vw;
-	z-index: 1000;
+	z-index: 100;
 	transition: 2s ease-in;
 }
 .container .open-inv .couple
@@ -82,7 +82,7 @@ body
 {
 	margin-bottom: 14px;
 }
-.container .open-inv .couple .popup_box
+.container .popup_box
 {
 	width: 343px;
 	position: fixed;
@@ -100,28 +100,28 @@ body
 	opacity: 0;
 	pointer-events: none;
 	user-select: none;
-	z-index: 1000;
+	z-index: 10000;
 }
-.container .open-inv .couple .popup_box img.close
+.container .popup_box img.close
 {
 	position: absolute;
 	top: 20px;
 	right: 20px;
 	cursor: pointer;
 }
-.container .open-inv .couple .popup_box h3
+.container .popup_box h3
 {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 20px;
 }
-.container .open-inv .couple .popup_box img.barcode
+.container .popup_box img.barcode
 {
 	border-radius: 8px;
 	padding: 12px;
 	margin: 32px 0 24px;
 	box-shadow: 0px 4px 20px 0px rgba(72, 72, 72, 0.2);
 }
-.container .open-inv .couple .popup_box p
+.container .popup_box p
 {
 	width: 197px;
 	font-family: 'Montserrat', sans-serif;
@@ -137,7 +137,7 @@ body
 	display: none;
 	background: #202020;
 	opacity: 0.5;
-	z-index: 1000;
+	z-index: 100;
 }
 
 /* Style CSS - Undangan HTML */
