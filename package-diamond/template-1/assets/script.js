@@ -4,7 +4,7 @@ $(document).ready(function()
 	{
 		$('.popup_box').css(
 		{
-			"opacity":"1", "pointer-events":"auto"
+			"opacity":"1", "margin-top":"0", "pointer-events":"auto"
 		});
 		$('.dark').css(
 		{
