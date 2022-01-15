@@ -889,13 +889,19 @@ p
 		width: 188px;
 		font-size: 12px;
 	}
-	.container .open-inv .couple button
+	.container .open-inv .couple button,
+	.container .lokasi button,
+	.container .rsvp .rsvp-form button,
+	.container .ucapan-doa button
 	{
 		width: 200px;
 		height: 50px;
-		margin-bottom: 14px;
 	}
-	.container .open-inv .couple button a
+	.container .open-inv .couple button a,
+	.container .lokasi button a,
+	.container .rsvp .rsvp-form button a,
+	.container .wedding-gift .barcode-card .no-rek button a,
+	.container .ucapan-doa button a
 	{
 		font-size: 16px;
 	}
