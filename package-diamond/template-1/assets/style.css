@@ -884,6 +884,21 @@ p
 		font-size: 16px;
 		margin-bottom: 16px;
 	}
+	.container .open-inv .couple p.note
+	{
+		width: 188px;
+		font-size: 12px;
+	}
+	.container .open-inv .couple button
+	{
+		width: 200px;
+		height: 50px;
+		margin-bottom: 14px;
+	}
+	.container .open-inv .couple button a
+	{
+		font-size: 16px;
+	}
 	.container .popup_box
 	{
 		width: 498px;
