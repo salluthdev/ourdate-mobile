@@ -457,6 +457,9 @@ p
 .container .acara .card .waktu-acara
 {
 	width: 140px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	background: var(--pink);
 	padding: 8px;
 	margin: 12px auto 16px;
@@ -889,6 +892,7 @@ p
 		width: 188px;
 		font-size: 12px;
 	}
+	.container .acara .card .waktu-acara,
 	.container .open-inv .couple button,
 	.container .lokasi button,
 	.container .rsvp .rsvp-form button,
