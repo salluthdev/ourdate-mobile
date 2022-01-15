@@ -871,6 +871,11 @@ p
 	{
 		width: 220px;
 	}
+	.container .open-inv .couple .nama-penerima
+	{
+		width: 250px;
+		height: 110px;
+	}
 	.container .popup_box
 	{
 		width: 498px;
