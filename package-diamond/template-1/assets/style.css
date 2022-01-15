@@ -61,6 +61,9 @@ body
 }
 .container .open-inv .couple .nama-penerima
 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 	border: 1px solid var(--pink);
 	border-radius: 10px;
 	padding: 16px 24px;
