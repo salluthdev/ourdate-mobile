@@ -862,6 +862,42 @@ p
 	margin-top: 5px;
 }
 
+@media (max-width: 1200px)
+{
+	
+}
+
+@media (max-width: 997px) and (min-width: 761px), (max-width: 360px)
+{
+	.container .home
+	{
+		padding: 24px 12px;
+	}
+	.container .home .timer .box
+	{
+		width: 68px;
+	}
+	.container .mempelai
+	{
+		padding: 24px 16px;
+	}
+	.container .acara, .container .rsvp,
+	.container .love-story, .container .wedding-gift,
+	.container .lokasi, .container .prokes,
+	.container .galeri, .container .ucapan-doa
+	{
+		padding: 24px 12px;
+	}
+	.container .prokes .prokes-notice .prokes-card
+	{
+		width: 92px;
+	}
+	.container .nav div p
+	{
+		min-width: 40px;
+	}
+}
+
 @media (max-width: 760px)
 {
 	.container, .container .nav
@@ -894,36 +930,5 @@ p
 	.container .love-story .love-wrapper .love-decoration::after
 	{
 		height: 200px;
-	}
-}
-
-@media (max-width: 360px), (max-width: 997px) and (min-width: 761px)
-{
-	.container .home
-	{
-		padding: 24px 12px;
-	}
-	.container .home .timer .box
-	{
-		width: 68px;
-	}
-	.container .mempelai
-	{
-		padding: 24px 16px;
-	}
-	.container .acara, .container .rsvp,
-	.container .love-story, .container .wedding-gift,
-	.container .lokasi, .container .prokes,
-	.container .galeri, .container .ucapan-doa
-	{
-		padding: 24px 12px;
-	}
-	.container .prokes .prokes-notice .prokes-card
-	{
-		width: 92px;
-	}
-	.container .nav div p
-	{
-		min-width: 40px;
 	}
 }
