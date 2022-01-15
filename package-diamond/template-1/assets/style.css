@@ -905,7 +905,8 @@ p
 
 @media (max-width: 760px)
 {
-	.container, .container .nav
+	.container, .container .open-inv,
+	.container .nav
 	{
 		width: 100%;
 	}
