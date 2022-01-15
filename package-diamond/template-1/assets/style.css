@@ -862,9 +862,12 @@ p
 	margin-top: 5px;
 }
 
-@media (max-width: 1200px)
+@media (min-width: 1200px)
 {
-	
+	.container .popup_box
+	{
+		width: 498px;
+	}
 }
 
 @media (max-width: 997px) and (min-width: 761px), (max-width: 360px)
