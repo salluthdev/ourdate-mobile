@@ -870,6 +870,10 @@ p
 		width: 498px;
 		height: 534px;
 	}
+	.container .popup_box img.barcode
+	{
+		width: 300px;
+	}
 }
 
 @media (max-width: 997px) and (min-width: 761px), (max-width: 360px)
