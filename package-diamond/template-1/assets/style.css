@@ -877,6 +877,16 @@ p
 	{
 		width: 220px;
 	}
+	.container .couple .octagon img.leaves-1
+	{
+		top: -10px;
+		left: 22px;
+	}
+	.container .couple .octagon img.leaves-2
+	{
+		bottom: -6px;
+		left: 74px;
+	}
 	.container .open-inv .couple .nama-penerima
 	{
 		width: 250px;
