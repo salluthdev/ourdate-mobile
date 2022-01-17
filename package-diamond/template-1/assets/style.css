@@ -884,8 +884,14 @@ p
 	}
 	.container .couple .octagon img.leaves-2
 	{
-		bottom: -6px;
-		left: 74px;
+		bottom: 0;
+		left: 114px;
+	}
+	.container .open-inv .couple .octagon img.leaves-3
+	{
+		position: absolute;
+		bottom: 22px;
+		right: -24px;
 	}
 	.container .open-inv .couple .nama-penerima
 	{
