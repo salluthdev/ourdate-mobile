@@ -918,6 +918,14 @@ p
 	{
 		width: 300px;
 	}
+	.container .couple .title p
+	{
+		font-size: 16px;
+	}
+	.container .couple .content p
+	{
+		font-size: 14px;
+	}
 }
 
 @media (max-width: 997px) and (min-width: 761px), (max-width: 360px)
