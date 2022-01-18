@@ -975,6 +975,14 @@ p
 	{
 		font-size: 14px;
 	}
+	.container .mempelai .card .media-sosial img
+	{
+		width: 20px;
+	}
+	.container .mempelai .card .media-sosial p
+	{
+		font-size: 12px;
+	}
 }
 
 @media (max-width: 997px) and (min-width: 761px), (max-width: 360px)
