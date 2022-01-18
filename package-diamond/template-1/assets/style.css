@@ -955,6 +955,10 @@ p
 	{
 		font-size: 14px;
 	}
+	.container .qrcode-guestbook img
+	{
+		width: 30px;
+	}
 }
 
 @media (max-width: 997px) and (min-width: 761px), (max-width: 360px)
