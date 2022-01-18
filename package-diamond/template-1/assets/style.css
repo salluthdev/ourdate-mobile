@@ -946,6 +946,11 @@ p
 	{
 		font-size: 28px;
 	}
+	.container .home .timer .box
+	{
+		width: 91px;
+		height: 72px;
+	}
 }
 
 @media (max-width: 997px) and (min-width: 761px), (max-width: 360px)
