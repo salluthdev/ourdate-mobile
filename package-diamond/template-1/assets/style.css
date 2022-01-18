@@ -967,6 +967,10 @@ p
 	{
 		width: 185px;
 	}
+	.container .mempelai .card .mempelai-image img.bunga-mempelai
+	{
+		left: 52px;
+	}
 }
 
 @media (max-width: 997px) and (min-width: 761px), (max-width: 360px)
