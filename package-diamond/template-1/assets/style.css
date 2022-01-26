@@ -987,6 +987,10 @@ p
 	{
 		font-size: 12px;
 	}
+	.container .love-story .love-card
+	{
+		width: 360px;
+	}
 }
 
 @media (max-width: 997px) and (min-width: 761px), (max-width: 360px)
