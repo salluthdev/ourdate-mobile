@@ -991,6 +991,22 @@ p
 	{
 		width: 360px;
 	}
+	.container .ucapan-doa .ucapan-isi h4
+	{
+		font-size: 19px;
+	}
+	.container .ucapan-doa .ucapan-isi p
+	{
+		font-size: 14px;
+	}
+	.container .nav div p
+	{
+		font-size: 12px;
+	}
+	.container .footer p
+	{
+		font-size: 18px;
+	}
 }
 
 @media (max-width: 997px) and (min-width: 761px), (max-width: 360px)
