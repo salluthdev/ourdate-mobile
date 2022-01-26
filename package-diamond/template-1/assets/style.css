@@ -599,7 +599,7 @@ p
 .container .prokes .prokes-notice .prokes-card
 {
 	position: relative;
-	width: 106px;
+	width: 30%;
 	height: 164px;
 	display: flex;
 	flex-direction: column;
